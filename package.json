@@ -19,6 +19,7 @@
   "homepage": "https://github.com/beatrizcampos25/livros_programacao#readme",
   "dependencies": {
     "@types/node": "^25.3.0",
+    "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }
 }
