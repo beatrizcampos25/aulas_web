@@ -5,3 +5,7 @@ let ativo: boolean = true;
 let dado: any = 10;
 let vazio: null = null;
 let indefinido: undefined = undefined;
+
+let situacao: "ativo" | "inativo" | "meio-termo" = "ativo";
+
+
